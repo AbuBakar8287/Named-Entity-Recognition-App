@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @AbuBakar8287
-- 👀 I’m interested in Software Development..
-- 🌱 I’m currently learning  MCA'25 from Jamia Millia Islamia...
-- 💞️ I’m looking to collaborate on startUps...
-- 📫 How to reach me by using my email abubakaransari5897@gmail.com
-- 😄 Pronouns: ..HE/Him.
-- ⚡ Fun fact: ...
-
-<!---
-AbuBakar8287/AbuBakar8287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is a simple and interactive Named Entity Recognition (NER) web application built using spaCy and Streamlit. The app allows users to enter any text and instantly visualize named entities such as persons, organizations, locations, and more. It also provides a basic word tokenization feature to break text into individual tokens. The application uses spaCy's pre-trained English model en_core_web_sm for NER and integrates Lottie animations to enhance the user experience. The app is easy to run locally and is ideal for demonstrating the capabilities of spaCy's NER in an intuitive, beginner-friendly interface. Simply clone the repository, install the required dependencies, and launch the app using Streamlit to start exploring text with NER visualizations.
